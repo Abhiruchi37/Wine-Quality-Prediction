@@ -37,7 +37,7 @@ The dataset (`wineQT.csv`) used in this project includes the following columns:
 
 3. Load your wine quality dataset into the appropriate file.
 
-4. Run the recommendation system:
+4. Run the Notebook:
 
    ```bash
    jupyter notebook Wine_Quality_Prediction.ipynb
